@@ -45,9 +45,9 @@ const BLOG = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'explang@yunjianxx.com',
   CONTACT_WEIBO: '',
-  CONTACT_TWITTER: 'ExpLangcn',
+  CONTACT_TWITTER: 'https://twitter.com/ExpLangcn',
   CONTACT_GITHUB: 'https://github.com/ExpLangcn',
-  CONTACT_TELEGRAM: '@ExpLang',
+  CONTACT_TELEGRAM: 'https://t.me/ExpLang',
 
   // 悬浮挂件
   WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || true, // 是否显示宠物挂件
